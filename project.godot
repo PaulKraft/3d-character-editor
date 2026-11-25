@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="HumanCreator"
+run/main_scene="uid://doaqqtmpn35cf"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
